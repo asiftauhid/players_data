@@ -35,8 +35,8 @@ Before running the script, ensure you have the following:
 ## Setup Instructions
 1. Clone this repository.
 2. Navigate to the project directory.
-3. Ensure you have an API key from [Football-Data.org](https://www.football-data.org) and store it in a `.env` file: team_data_api=YOUR_API_KEY
-4. Install the required Python packages by running: pip install -r requirements.txt
+3. Ensure you have an API key from [Football-Data.org](https://www.football-data.org) and store it in a `.env` file: `team_data_api=YOUR_API_KEY`
+4. Install the required Python packages by running: `pip install -r requirements.txt`
 5. Ensure you have a valid Chrome WebDriver installed and accessible from your PATH. You can download it from [here](https://chromedriver.chromium.org/downloads).
 
 ## Running the Scraper
